@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 
@@ -6,7 +7,7 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
-    <title>Industrial HVAC Services | Warehouse HVAC in Union, Irvington, Elizabeth, NJ | Ray's HVAC</title>
+    <title>HVAC Contractor | Union, Irvington, Elizabeth, NJ | Ray's HVAC</title>
 
     <!-- preconnecting / preloading -->
     <link rel="preconnect" as="style" id="jquery-ui-css-preload" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.min.css?ver=248_11" crossorigin/>
@@ -37,14 +38,21 @@
 
 <script type="text/javascript" src="https://rayshvacmechanical.com/cms_websites/tools/AdminBarAnalytics/js/external-tracking.min.js"></script>
 <link rel="shortcut icon" sizes="16x16 32x32 64x64" href="/files/2022/07/heating.png?w=196&h=196&zc=0">
-<meta property="og:image" content="/files/2022/04/sdf12Untitled-6-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered.jpg"/>
-<meta property="og:title" content="Industrial HVAC Services | Warehouse HVAC in Union, Irvington, Elizabeth, NJ | Ray's HVAC"/>
+<meta name="google-site-verification" content="9_6KcpwNGiTwnrZO4Yc2-XZ1vbtd6mpSR91N2cNY7wU"/>
+<meta property="og:image" content="/files/2022/04/32Untitled-6-Recovered-Recovered-Recovered-Recovered-Recovered.jpg"/>
+<meta property="og:image" content="/files/2022/04/ads.jpg"/>
+<meta property="og:image" content="/files/2020/02/background.jpg"/>
+<meta property="og:image" content="/files/2022/04/f-Recovered-Recovered.jpg"/>
+<meta property="og:image" content="/files/2022/04/12Untitled-6-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered.jpg"/>
+<meta property="og:image" content="/wp-content/uploads//b2b/stock/v2/bigstock/Close-up-of-a-man-using-mobile-53439139.jpg"/>
+<meta property="og:image" content="/files/2022/04/2Untitled-6-Recovered-Recovered-Recovered-Recovered-Recovered.jpg"/>
+<meta property="og:title" content="HVAC Contractor | Union, Irvington, Elizabeth, NJ | Ray's HVAC"/>
 <meta property="og:site_name" content="Ray's HVAC"/>
 <meta property="og:type" content="website"/>
-<meta property="og:url" content="https://rayshvacmechanical.com/industrial-hvac"/>
-<meta property="og:description" content="To make sure your indoor climate stays just right, rely on Ray's HVAC for industrial HVAC services in Union, NJ."/>
-<meta name="description" itemprop="description" content="To make sure your indoor climate stays just right, rely on Ray's HVAC for industrial HVAC services in Union, NJ." />
-<link rel="canonical" href="https://rayshvacmechanical.com/industrial-hvac" />
+<meta property="og:url" content="https://rayshvacmechanical.com"/>
+<meta property="og:description" content="Reach out to Ray's HVAC for residential, commercial, and industrial HVAC services in Union and Irvington, NJ. We offer HVAC installations and repairs!"/>
+<meta name="description" itemprop="description" content="Reach out to Ray's HVAC for residential, commercial, and industrial HVAC services in Union and Irvington, NJ. We offer HVAC installations and repairs!" />
+<link rel="canonical" href="https://rayshvacmechanical.com" />
 <link rel="stylesheet" id="custom-css-css" href="https://rayshvacmechanical.com/cms_websites/cms_custom_css.php?ver=248_11" type="text/css" media="all"/>
 <!-- Segment Pixel - NC_Charlotte_Ray's HVAC_RT Pixel - DO NOT MODIFY -->
 <script src="https://secure.adnxs.com/seg?add=30013769&t=1" type="text/javascript"></script>
@@ -65,14 +73,14 @@
         'gaId':'UA-32419321-172',
         'page_type': '',
         'isPage': '',
-        'post_id': '604178',
+        'post_id': '604175',
         'home_url':'https://rayshvacmechanical.com',
         'admin_url':'',
         'plugins_url':'',
         'basename':'index.php',
         'isMobile':0,
         'isTablet':0,
-        'isFrontPage': 0,
+        'isFrontPage': 1,
         'isPost':0,
         'isSuperAdmin':0,
         'isBeacon':1,
@@ -125,7 +133,7 @@ _gaq.push(['_trackPageview']);
 
 
             <!-- Ga4 Script-->
-            <!-- Elapsed Time: 0.0033009052276611s -->
+            <!-- Elapsed Time: 0.0029759407043457s -->
             <script async src="https://www.googletagmanager.com/gtag/js?id=G-SD29XNYM4H"></script>
             <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-SD29XNYM4H'); </script>
 
@@ -145,9 +153,31 @@ _gaq.push(['_trackPageview']);
                 });
             }, false);
         </script>
-
+<script type='application/ld+json'> 
+{
+  "@context": "http://www.schema.org",
+  "@type": "HVACBusiness",
+  "name": "Ray's HVAC",
+  "url": "https://rayshvacmechanical.com/",
+  "logo": "https://rayshvacmechanical.com/files/2022/04/rays.png",
+  "description": "Reach out to Ray's HVAC for residential, commercial, and industrial HVAC services in Union, NJ. We offer HVAC installations and repairs!",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Union",
+    "addressRegion": "NJ ",
+    "postalCode": "07083",
+    "addressCountry": "USA "
+  },
+  "openingHours": "Mo, Tu, We, Th, Fr 09:00-17:00",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "(201) 780-3062",
+    "contactType": "Phone"
+  }
+}
+ </script>
 </head>
-<body id="top"class=" page page-id-604178 page-template-default ve-iframe beacon unknown">
+<body id="top"class=" home page page-id-604175 page-template-default ve-iframe beacon unknown">
 <div id="wrapper" class="tsW">
     <header class="tsH expand">
         <div class="tsH_wrp">
@@ -158,7 +188,7 @@ _gaq.push(['_trackPageview']);
 </h2></div>
             <div id="access" class="original_access">
                 <div class="menu align-right">
-            <ul id="menu-primary-menu" rel="dennis" class="sf-menu sf-menu_bg"><li class=" menu-item menu-item-669834 menu-item-object-page menu-item-type-  page_item page-item-604175" id="menu-item-669834"><a href="https://rayshvacmechanical.com/">Home</a></li><li class=" menu-item menu-item-669835 menu-item-object-page menu-item-type-post_type " id="menu-item-669835"><a href="https://rayshvacmechanical.com/residential-hvac/">Residential HVAC</a></li><li class=" menu-item menu-item-669836 menu-item-object-page menu-item-type-post_type " id="menu-item-669836"><a href="https://rayshvacmechanical.com/commercial-hvac/">Commercial HVAC</a></li><li class=" menu-item menu-item-669837 menu-item-object-page menu-item-type-post_type current-menu-item current_page_item" id="menu-item-669837"><a href="https://rayshvacmechanical.com/industrial-hvac/">Industrial HVAC</a></li><li class=" menu-item menu-item-957883 menu-item-object-page menu-item-type-post_type " id="menu-item-957883"><a href="https://rayshvacmechanical.com/reviews/">Reviews</a></li><li class=" menu-item menu-item-669838 menu-item-object-page menu-item-type-post_type " id="menu-item-669838"><a href="https://rayshvacmechanical.com/contact/">Contact</a></li></ul>
+            <ul id="menu-primary-menu" rel="dennis" class="sf-menu sf-menu_bg"><li class=" menu-item menu-item-669834 menu-item-object-page menu-item-type- current-menu-item current_page_item page_item page-item-604175" id="menu-item-669834"><a href="https://rayshvacmechanical.com/">Home</a></li><li class=" menu-item menu-item-669835 menu-item-object-page menu-item-type-post_type " id="menu-item-669835"><a href="https://rayshvacmechanical.com/residential-hvac/">Residential HVAC</a></li><li class=" menu-item menu-item-669836 menu-item-object-page menu-item-type-post_type " id="menu-item-669836"><a href="https://rayshvacmechanical.com/commercial-hvac/">Commercial HVAC</a></li><li class=" menu-item menu-item-669837 menu-item-object-page menu-item-type-post_type " id="menu-item-669837"><a href="https://rayshvacmechanical.com/industrial-hvac/">Industrial HVAC</a></li><li class=" menu-item menu-item-957883 menu-item-object-page menu-item-type-post_type " id="menu-item-957883"><a href="https://rayshvacmechanical.com/reviews/">Reviews</a></li><li class=" menu-item menu-item-669838 menu-item-object-page menu-item-type-post_type " id="menu-item-669838"><a href="https://rayshvacmechanical.com/contact/">Contact</a></li></ul>
         </div>            </div>
 
             <button type="button" class="tsC_open tsH_navTrig trigger" data-target="tsM" title="Open Menu"></button>
@@ -176,35 +206,302 @@ _gaq.push(['_trackPageview']);
 <div class='full_width_content section_content content_bg wrp_color_bg'><div class='section w1060'><!-- Start block charlotte_parallax_1 -->
 <!-- charlotte_parallax_1 new RENDER -->
 <section id='section_1'
-            class='tsB tsT_parallax p1 promo_colors nCol tsX widescreen_2-4_1 large  not_well '>
+            class='tsB tsT_parallax p1 promo_colors nCol tsX no_sizing large tsD_dl not_well '>
 
-<article id='a3-1' class='tsI transition item_1 animate txt_ yImg nLk yHds yOvr'>
+<article id='a3-1' class='tsI transition item_1 animate txt_left yImg yLk yHds yOvr'>
                 <div class='tsX tsXa' style='' data-jarallax data-speed='0.2' data-img-position='50% 50%'>
-                    <img class='jarallax-img' src='/files/2022/04/sdf12Untitled-6-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered.jpg?w=1600&a=t'/>
+                    <img class='jarallax-img' src='/files/2022/04/32Untitled-6-Recovered-Recovered-Recovered-Recovered-Recovered.jpg?w=1600&a=t'/>
+                </div>
+                <div class='tsX tsXb' ></div><a class='tsI_wrp' href='/contact/' target='_self' ><div class='tsI_cptn'>
+                 <div class='tsI_txt'>
+<header class='tsI_hds '>
+<H1 class='tsI_hd'>RELIABLE HVAC SERVICES WHEN YOU NEED IT.</H1>
+<h2 class='tsI_sh'>PROFFESSIONAL HVAC SERVICES in NORTHERN NJ WERE ONLY A CALL AWAY AT         <strong> 201-780-3062<strong></h2>
+</header>
+<div class='tsI_dsc '><p>GUARANTEED SERVICE AND REPAIRS ALL YEAR ROUND</p></div><div class='tsI_btn btn_2 btn_p3 btn_rnd btn_lg transition'> Get A Free Estimate!</div></div></div></a></article></section>
+<!-- end of charlotte_parallax_1 new RENDER --><!-- End block --><!-- Start block charlotte_sec_start -->
+<!-- charlotte_sec_start new RENDER --><div id='sec_2' class='tsB tsT_sec   dBkg nPara'><div class='tsXa'></div>
+                    <div class='tsXb' style='background-color: ;'></div>
+                    <style>
+                        .tsT_sec#sec_2 .tsXa{opacity:0.13;}
+                        @media only screen and (min-width: 851px) {
+                        .tsT_sec#sec_2 .tsXa{
+                            background-image:url("/files/2022/04/ads.jpg?w=1600&a=t");
+                            background-image: -webkit-image-set( url("/files/2022/04/ads.jpg?w=1600&a=t") 1x, url("/files/2022/04/ads.jpg?w=2880&a=t") 2x );
+                            background-image: image-set( url("/files/2022/04/ads.jpg?w=1600&a=t") 1x, url("/files/2022/04/ads.jpg?w=2880&a=t") 2x );
+                            }
+                        }
+                        @media only screen and (min-width: 481px) and (max-width: 850px) {
+                        .tsT_sec#sec_2 .tsXa{
+                            background-image:url("/files/2022/04/ads.jpg?w=850&a=t");
+                            }
+                        }
+                        @media only screen and (max-width: 480px) {
+                        .tsT_sec#sec_2 .tsXa{
+                            background-image:url("/files/2022/04/ads.jpg?h=720&a=t");
+                            }
+                        }
+                    </style>
+                    <!-- End block --><!-- Start block charlotte_article_1 -->
+<!-- charlotte_article_1 new RENDER -->
+<section id='section_3'
+            class='tsB tsT_article a1 tsflex col_1 landscape_4_3 large not_well tsD_main'>
+<div class='tsR'>
+
+<article class='tsI item_1 center nHero nImg yHds yDsc yHd yShd nLk' data-aos='fade-up' data-aos-once='true' ><div class='tsI_wrp' ><div class='tsI_txt'>
+<header class='tsI_hds '>
+<h2 class='tsI_hd'>OUR TEAM IS AVAILABLE TO HELP.</h2>
+<h2 class='tsI_sh'>Turn to us for your HVAC needs</h2>
+</header>
+<div class='tsI_dsc_wrp '><div class='tsI_dsc'><p>Whether you need routine maintenance or installation or emergency 6services, our team is ready to help. If you need a new system, we can design and install it, so you can enjoy more efficient heating and cooling. Upgraded HVAC will save you money on maintenance and energy6 costs in the long run. Connect with RAYS HVAC today to learn more.<br>201-780-3062</p></div></div></div></div></article></div></section>
+<!-- end of charlotte_article_1 new RENDER --><!-- End block --><!-- Start block charlotte_sec_end -->
+<!-- charlotte_sec_end new RENDER -->
+</div>
+<!-- end of charlotte_sec_end new RENDER --><!-- End block --><!-- Start block charlotte_sec_start -->
+<!-- charlotte_sec_start new RENDER --><div id='sec_4' class='tsB tsT_sec   dBkg yPara'><div class='tsXa' style='opacity:0.3; background-image:url("/files/2020/02/background.jpg");' data-jarallax data-speed='0.2' data-img-size='cover' data-img-position='50% 50%'>
+                    </div>
+                    <div class='tsXb' style='background-color: #CA1116;'></div><!-- End block --><!-- Start block charlotte_article_1 -->
+<!-- charlotte_article_1 new RENDER -->
+<section id='section_5'
+            class='tsB tsT_article a1 tsflex col_1 square_1_1 large not_well tsD_content tsD_white'>
+<div class='tsR'>
+
+<article class='tsI item_1 center nHero nImg yHds yDsc yHd nShd nLk' data-aos='fade-up' data-aos-once='true' ><div class='tsI_wrp' ><div class='tsI_txt'>
+<header class='tsI_hds '>
+<h2 class='tsI_hd'>The importance of HVAC maintenance</h2>
+</header>
+<div class='tsI_dsc_wrp '><div class='tsI_dsc'><p>If you want to avoid an emergency repair call, you need to give your HVAC system regular preventive care. Routine HVAC maintenance can save you money in the long run by helping you save on cooling costs and avoid an expensive replacement. We can come back monthly to make sure your commercial or industrial system is operating smoothly. <br><br>Get a free estimate on your industrial or commercial HVAC services today.</p></div></div></div></div></article></div></section>
+<!-- end of charlotte_article_1 new RENDER --><!-- End block --><!-- Start block charlotte_sec_end -->
+<!-- charlotte_sec_end new RENDER -->
+</div>
+<!-- end of charlotte_sec_end new RENDER --><!-- End block --><!-- Start block charlotte_photo_grid -->
+<!-- charlotte_photo_grid new RENDER -->
+<section id='section_6'
+            class='tsB tsT_photo_grid promo_colors tsflex col_2 square_1_1 not_well medium tsD_photofeature13'>
+<div class='tsR'>
+
+<article class='tsI item_1 txt_center nHero yImg yHds yLk' data-aos='fade-up' data-aos-once='true' ><a class='tsI_wrp theframe bkgtag ' href='/residential-hvac/' target='_self' data-image='/files/2022/04/f-Recovered-Recovered.jpg?1:1&a=t' data-alt='Residential HVAC'><div class='tsI_cptn transition'>
+                    <div class='tsI_txt'>
+<header class='tsI_hds '>
+<h3 class='tsI_hd'>Residential HVAC</h3>
+</header></div></div><figure class='tsI_img theframe emptytag no-lazy-load' data-image='https://rayshvacmechanical.com/wp-content/themes/beacon-easton/img/transparent.png?1:1&a=t'></figure></a></article>
+<article class='tsI item_2 txt_center nHero yImg yHds yLk' data-aos='fade-up' data-aos-once='true' ><a class='tsI_wrp theframe bkgtag ' href='/commercial-hvac/' target='_self' data-image='/files/2022/04/12Untitled-6-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered.jpg?1:1&a=t' data-alt='Commercial HVAC'><div class='tsI_cptn transition'>
+                    <div class='tsI_txt'>
+<header class='tsI_hds '>
+<h3 class='tsI_hd'>Commercial HVAC</h3>
+</header></div></div><figure class='tsI_img theframe emptytag no-lazy-load' data-image='https://rayshvacmechanical.com/wp-content/themes/beacon-easton/img/transparent.png?1:1&a=t'></figure></a></article>
+<article class='tsI item_3 txt_center nHero yImg yHds yLk' data-aos='fade-up' data-aos-once='true' ><a class='tsI_wrp theframe bkgtag ' href='/contact/' target='_self' data-image='/wp-content/uploads//b2b/stock/v2/bigstock/Close-up-of-a-man-using-mobile-53439139.jpg?1:1&a=t' data-alt='Contact Us'><div class='tsI_cptn transition'>
+                    <div class='tsI_txt'>
+<header class='tsI_hds '>
+<h3 class='tsI_hd'>Contact Us</h3>
+</header></div></div><figure class='tsI_img theframe emptytag no-lazy-load' data-image='https://rayshvacmechanical.com/wp-content/themes/beacon-easton/img/transparent.png?1:1&a=t'></figure></a></article></div></section>
+<!-- end of charlotte_photo_grid new RENDER --><!-- End block --><!-- Start block charlotte_article_1 -->
+<!-- charlotte_article_1 new RENDER -->
+<section id='section_7'
+            class='tsB tsT_article a1 tsflex col_1 square_1_1 large not_well tsD_split1'>
+<div class='tsR'>
+
+<article class='tsI item_1 left nHero nImg yHds yDsc yHd yShd nLk' data-aos='fade-up' data-aos-once='true' ><div class='tsI_wrp' ><div class='tsI_txt'>
+<header class='tsI_hds '>
+<h2 class='tsI_hd'>Be Comfortable Year-Round in Union, Irvington, Elizabeth, NJ, and all of Northern New Jersey with our HVAC Services</h2>
+<h2 class='tsI_sh'>Partner with an HVAC contractor</h2>
+</header>
+<div class='tsI_dsc_wrp '><div class='tsI_dsc'><p><p>It&#39;s hard to be productive at work or relax at home when the temperature isn&#39;t right. Rather than sweating or shivering, bring in the experts for HVAC services in Union, Irvington and Elizabeth, NJ. You should hire an HVAC contractor from Ray&#39;s HVAC because of our:<br> </p><ul><li>25+ years in business</li><li>Knowledge of <a href="https://rayshvacmechanical.com/commercial-hvac/">commercial</a>, <a href="https://rayshvacmechanical.com/industrial-hvac/">industrial</a> and <a href="https://rayshvacmechanical.com/residential-hvac/">residential</a> systems</li><li>Free estimates</li></ul><br><p><br>Schedule HVAC installation or repair services today.</p></p></div></div></div></div></article></div></section>
+<!-- end of charlotte_article_1 new RENDER --><!-- End block --><!-- Start block charlotte_parallax_1 -->
+<!-- charlotte_parallax_1 new RENDER -->
+<section id='section_8'
+            class='tsB tsT_parallax p1 promo_colors nCol tsX widescreen_2-4_1 large tsD_white not_well '>
+
+<article id='a3-1' class='tsI transition item_1 animate txt_center yImg nLk yHds yOvr'>
+                <div class='tsX tsXa' style='' data-jarallax data-speed='0.2' data-img-position='50% 50%'>
+                    <img class='jarallax-img' src='/files/2022/04/2Untitled-6-Recovered-Recovered-Recovered-Recovered-Recovered.jpg?w=1600&a=t'/>
                 </div>
                 <div class='tsX tsXb' ></div><div class='tsI_wrp' ><div class='tsI_cptn'>
                  <div class='tsI_txt'>
 <header class='tsI_hds '>
-<h2 class='tsI_hd'>Industrial HVAC</h2>
+<h2 class='tsI_hd'>Don&#39;t Know What&#39;s Wrong With Your HVAC?</h2>
+<h2 class='tsI_sh'>We can troubleshoot it for you</h2>
 </header></div></div></div></article></section>
-<!-- end of charlotte_parallax_1 new RENDER --><!-- End block --><!-- Start block charlotte_article_1 -->
-<!-- charlotte_article_1 new RENDER -->
-<section id='section_2'
-            class='tsB tsT_article a1 tsflex col_2 square_1_1 medium not_well '>
-<div class='tsR'>
+<!-- end of charlotte_parallax_1 new RENDER --><!-- End block --><!-- Start block charlotte_testimonials_2 -->
+<!-- charlotte_photo_gallery_2 new RENDER -->
+<section id='section_0'
+            class='tsB tsT_testimonials_2 c_3 small
+            square_1_1  not_well'><style></style><div class='slick-wrap' data-settings='[]'>
+                        <div class='slick-slides autoHeight' id='slick-slides-9' data-slick='{"slidesToShow": 3,"responsive":[{"breakpoint": 1208,"settings": {"slidesToShow": 2}},{"breakpoint": 1024,"settings": {"slidesToShow": 2}},{"breakpoint": 850,"settings": {"slidesToShow": 1}}]}'>
+<article class='tsI item_ nHero center nImg yHds yDsc yHd nShd nLk yLbl' data-aos='fade-up' data-aos-once='true'><div class='tsI_wrp'><div class='tsI_cptn'><div class='tsI_txt'><h3 class='tsI_stars' title='5'></h3><div class='tsI_dsc '><span class='icon-quote'></span><p>Thanks to Ray&#39;s I got my system replaced over the weekend with a high efficiency system and it&#39;s working great.<br>Thanks to Rays Team.<br>Recommend them highly.</p></div><div class='tsI_hds_wrp'>
+<header class='tsI_hds '>
+<h4 class='tsI_hd'>Matthew Spinelli</h4>
+</header></div></div></div></div></article>
+<article class='tsI item_ nHero center nImg yHds yDsc yHd nShd nLk yLbl' data-aos='fade-up' data-aos-once='true'><div class='tsI_wrp'><div class='tsI_cptn'><div class='tsI_txt'><h3 class='tsI_stars' title='5'></h3><div class='tsI_dsc '><span class='icon-quote'></span><p>Ray and his team were super responsive and came right away to our urgent air conditioning issue. Not only did they come out within the hour, they were able to quickly diagnose and resolve the issue with my condenser in under 30 minutes.  I would highly recommend Ray and his team!</p></div><div class='tsI_hds_wrp'>
+<header class='tsI_hds '>
+<h4 class='tsI_hd'>Alex Clark</h4>
+</header></div></div></div></div></article>
+<article class='tsI item_ nHero center nImg yHds yDsc yHd nShd nLk yLbl' data-aos='fade-up' data-aos-once='true'><div class='tsI_wrp'><div class='tsI_cptn'><div class='tsI_txt'><h3 class='tsI_stars' title='5'></h3><div class='tsI_dsc '><span class='icon-quote'></span><p>Excellent service - Andrew helped us with Air conditioner fix who did detailed troubleshooting, identified the problem  and fixed it. Very happy with this company.<br>Before this,  we did ask someone else  to troubleshoot ac problem who suggested that unit can&#39;t be repaired and needs to be replaced, but Andrew fixed in a reasonable price. Definitely recommend!</p></div><div class='tsI_hds_wrp'>
+<header class='tsI_hds '>
+<h4 class='tsI_hd'>sejal shah</h4>
+</header></div></div></div></div></article>
+<article class='tsI item_ nHero center nImg yHds yDsc yHd nShd nLk yLbl' data-aos='fade-up' data-aos-once='true'><div class='tsI_wrp'><div class='tsI_cptn'><div class='tsI_txt'><h3 class='tsI_stars' title='5'></h3><div class='tsI_dsc '><span class='icon-quote'></span><p>I highly recommend Ray&#39;s HVAC.  Andrew, the tech who came to my house was able to diagnose and fix the problem quickly.  Also he was a really nice guy, a pleasure to have in my home.</p></div><div class='tsI_hds_wrp'>
+<header class='tsI_hds '>
+<h4 class='tsI_hd'>Karen Mooney</h4>
+</header></div></div></div></div></article>
+<article class='tsI item_ nHero center nImg yHds yDsc yHd nShd nLk yLbl' data-aos='fade-up' data-aos-once='true'><div class='tsI_wrp'><div class='tsI_cptn'><div class='tsI_txt'><h3 class='tsI_stars' title='5'></h3><div class='tsI_dsc '><span class='icon-quote'></span><p>Rays team did a fast efficient job on the hottest day of the year. Definitely recommend them and the price was Fair. Thanks Ray!!</p></div><div class='tsI_hds_wrp'>
+<header class='tsI_hds '>
+<h4 class='tsI_hd'>Mike Bocerely</h4>
+</header></div></div></div></div></article>
+<article class='tsI item_ nHero center nImg yHds yDsc yHd nShd nLk yLbl' data-aos='fade-up' data-aos-once='true'><div class='tsI_wrp'><div class='tsI_cptn'><div class='tsI_txt'><h3 class='tsI_stars' title='5'></h3><div class='tsI_dsc '><span class='icon-quote'></span><p>Nothing but good to say about Ray and crew.  Right there today when my system went down!  Obvious that Ray understands and acts.  One call to Ray and he showed up, diagnosed the problem and had the system up and running in no time at all.  Got a HVAC problem, call Ray.</p></div><div class='tsI_hds_wrp'>
+<header class='tsI_hds '>
+<h4 class='tsI_hd'>Wayne Pilato</h4>
+</header></div></div></div></div></article>
+<article class='tsI item_ nHero center nImg yHds yDsc yHd nShd nLk yLbl' data-aos='fade-up' data-aos-once='true'><div class='tsI_wrp'><div class='tsI_cptn'><div class='tsI_txt'><h3 class='tsI_stars' title='5'></h3><div class='tsI_dsc '><span class='icon-quote'></span><p>Rays HVAC flawlessly fixed my heating problem, they&#39;re extremely profesional and<br>Very Helpful</p></div><div class='tsI_hds_wrp'>
+<header class='tsI_hds '>
+<h4 class='tsI_hd'>Jayden B.</h4>
+</header></div></div></div></div></article>
+<article class='tsI item_ nHero center nImg yHds yDsc yHd nShd nLk yLbl' data-aos='fade-up' data-aos-once='true'><div class='tsI_wrp'><div class='tsI_cptn'><div class='tsI_txt'><h3 class='tsI_stars' title='5'></h3><div class='tsI_dsc '><span class='icon-quote'></span><p>The guys are great i have a couple tenants in New Jersey and there the first i call always !! Great service will always recommend</p></div><div class='tsI_hds_wrp'>
+<header class='tsI_hds '>
+<h4 class='tsI_hd'>oscar</h4>
+</header></div></div></div></div></article>
+<article class='tsI item_ nHero center nImg yHds yDsc yHd nShd nLk yLbl' data-aos='fade-up' data-aos-once='true'><div class='tsI_wrp'><div class='tsI_cptn'><div class='tsI_txt'><h3 class='tsI_stars' title='5'></h3><div class='tsI_dsc '><span class='icon-quote'></span><p>Rays Team really  came through!<br>Real experts. I was very pleased with the level of Service.</p></div><div class='tsI_hds_wrp'>
+<header class='tsI_hds '>
+<h4 class='tsI_hd'>Blxe I</h4>
+</header></div></div></div></div></article>
+<article class='tsI item_ nHero center nImg yHds yDsc yHd nShd nLk yLbl' data-aos='fade-up' data-aos-once='true'><div class='tsI_wrp'><div class='tsI_cptn'><div class='tsI_txt'><h3 class='tsI_stars' title='5'></h3><div class='tsI_dsc '><span class='icon-quote'></span><p>I had an urgent situation where my mini splits were not blowing out heat. I called Ray&#39;s team on Saturday morning, and they were here within an hour! Very professional service and responsive. I highly recommend!!</p></div><div class='tsI_hds_wrp'>
+<header class='tsI_hds '>
+<h4 class='tsI_hd'>Paul Nucero</h4>
+</header></div></div></div></div></article>
+<article class='tsI item_ nHero center nImg yHds yDsc yHd nShd nLk yLbl' data-aos='fade-up' data-aos-once='true'><div class='tsI_wrp'><div class='tsI_cptn'><div class='tsI_txt'><h3 class='tsI_stars' title='5'></h3><div class='tsI_dsc '><span class='icon-quote'></span><p>Fantastic service! In the last year we had 2 major issues with our air container and then hot water heater. On both occasions Ray&#39;s team responded very quickly, professionally and were reasonably priced. Great experience both times! Highly  recommend!</p></div><div class='tsI_hds_wrp'>
+<header class='tsI_hds '>
+<h4 class='tsI_hd'>Laura</h4>
+</header></div></div></div></div></article>
+<article class='tsI item_ nHero center nImg yHds yDsc yHd nShd nLk yLbl' data-aos='fade-up' data-aos-once='true'><div class='tsI_wrp'><div class='tsI_cptn'><div class='tsI_txt'><h3 class='tsI_stars' title='5'></h3><div class='tsI_dsc '><span class='icon-quote'></span><p>Our HVAC system went out and Isaiah from Ray&#39;s HVAC was out there the same day. He was transparent about what we needed, tried to save us money, and did good clean work. Very happy with the service, highly recommend using them.</p></div><div class='tsI_hds_wrp'>
+<header class='tsI_hds '>
+<h4 class='tsI_hd'>Devin O&#39;Brien</h4>
+</header></div></div></div></div></article>
+<article class='tsI item_ nHero center nImg yHds yDsc yHd nShd nLk yLbl' data-aos='fade-up' data-aos-once='true'><div class='tsI_wrp'><div class='tsI_cptn'><div class='tsI_txt'><h3 class='tsI_stars' title='5'></h3><div class='tsI_dsc '><span class='icon-quote'></span><p>What a great experience I had with Rays Hvac. My unit broke down on the hottest day of course , and no HVAC company was willing to come out that day. I luckily came across ray on google and he came out the same day and repaired my unit, and not to mention saved me thousands of dollars by saving my AC unit which is still Up and running great. Thank you ray and his team for being professional and a man of your word. I will highly recommend and will definitely use again!</p></div><div class='tsI_hds_wrp'>
+<header class='tsI_hds '>
+<h4 class='tsI_hd'>Matthew Itkin</h4>
+</header></div></div></div></div></article>
+<article class='tsI item_ nHero center nImg yHds yDsc yHd nShd nLk yLbl' data-aos='fade-up' data-aos-once='true'><div class='tsI_wrp'><div class='tsI_cptn'><div class='tsI_txt'><h3 class='tsI_stars' title='5'></h3><div class='tsI_dsc '><span class='icon-quote'></span><p>Our boiler was&#39;t working. Called at 7:00am and the job was done by 11:00am. Great service</p></div><div class='tsI_hds_wrp'>
+<header class='tsI_hds '>
+<h4 class='tsI_hd'>Jennifer Walk-Downs</h4>
+</header></div></div></div></div></article>
+<article class='tsI item_ nHero center nImg yHds yDsc yHd nShd nLk yLbl' data-aos='fade-up' data-aos-once='true'><div class='tsI_wrp'><div class='tsI_cptn'><div class='tsI_txt'><h3 class='tsI_stars' title='5'></h3><div class='tsI_dsc '><span class='icon-quote'></span><p>Isaiah is such a professional highly recommend!</p></div><div class='tsI_hds_wrp'>
+<header class='tsI_hds '>
+<h4 class='tsI_hd'>JasonGotViews</h4>
+</header></div></div></div></div></article>
+<article class='tsI item_ nHero center nImg yHds yDsc yHd nShd nLk yLbl' data-aos='fade-up' data-aos-once='true'><div class='tsI_wrp'><div class='tsI_cptn'><div class='tsI_txt'><h3 class='tsI_stars' title='5'></h3><div class='tsI_dsc '><span class='icon-quote'></span><p>Rays arrived on time and carefully explained the issue with my hvac system. Theey were able to make the repairs right away.<br>Would definitely recommend them.</p></div><div class='tsI_hds_wrp'>
+<header class='tsI_hds '>
+<h4 class='tsI_hd'>Dorys Hair Creation</h4>
+</header></div></div></div></div></article>
+<article class='tsI item_ nHero center nImg yHds yDsc yHd nShd nLk yLbl' data-aos='fade-up' data-aos-once='true'><div class='tsI_wrp'><div class='tsI_cptn'><div class='tsI_txt'><h3 class='tsI_stars' title='5'></h3><div class='tsI_dsc '><span class='icon-quote'></span><p>Ray completed furnace and boiler work in our home.  Ray communicates well, works fast and gets the job done correctly.  Just call Ray and he will get to work on your HVAC needs right away!   We are happy.</p></div><div class='tsI_hds_wrp'>
+<header class='tsI_hds '>
+<h4 class='tsI_hd'>Darth Backwrdz</h4>
+</header></div></div></div></div></article>
+<article class='tsI item_ nHero center nImg yHds yDsc yHd nShd nLk yLbl' data-aos='fade-up' data-aos-once='true'><div class='tsI_wrp'><div class='tsI_cptn'><div class='tsI_txt'><h3 class='tsI_stars' title='5'></h3><div class='tsI_dsc '><span class='icon-quote'></span><p>I would highly recommend this company to anyone with hvac issues! The people were curtious and understanding of my urgency and resolved my issue quickly and for a reasonable price. Will be calling them for sure if i have any issues in the future.</p></div><div class='tsI_hds_wrp'>
+<header class='tsI_hds '>
+<h4 class='tsI_hd'>Koryn Russell</h4>
+</header></div></div></div></div></article>
+<article class='tsI item_ nHero center nImg yHds yDsc yHd nShd nLk yLbl' data-aos='fade-up' data-aos-once='true'><div class='tsI_wrp'><div class='tsI_cptn'><div class='tsI_txt'><h3 class='tsI_stars' title='5'></h3><div class='tsI_dsc '><span class='icon-quote'></span><p>I had a chiller fail, Ray was able to get some one here same day! Made me look good to my Boss!</p></div><div class='tsI_hds_wrp'>
+<header class='tsI_hds '>
+<h4 class='tsI_hd'>Carol Dounn</h4>
+</header></div></div></div></div></article>
+<article class='tsI item_ nHero center nImg yHds yDsc yHd nShd nLk yLbl' data-aos='fade-up' data-aos-once='true'><div class='tsI_wrp'><div class='tsI_cptn'><div class='tsI_txt'><h3 class='tsI_stars' title='5'></h3><div class='tsI_dsc '><span class='icon-quote'></span><p>Rays Hvac replaced both of our AC thay work clean and fast and they have very competitive priceing thanks Ray</p></div><div class='tsI_hds_wrp'>
+<header class='tsI_hds '>
+<h4 class='tsI_hd'>George Diana</h4>
+</header></div></div></div></div></article>
+<article class='tsI item_ nHero center nImg yHds yDsc yHd nShd nLk yLbl' data-aos='fade-up' data-aos-once='true'><div class='tsI_wrp'><div class='tsI_cptn'><div class='tsI_txt'><h3 class='tsI_stars' title='5'></h3><div class='tsI_dsc '><span class='icon-quote'></span><p>Was prompt in his reply and solved a problem where others had failed.<br>Website clearly outlined the charges that were to be made.<br>All in all would definitely consider using again.</p></div><div class='tsI_hds_wrp'>
+<header class='tsI_hds '>
+<h4 class='tsI_hd'>Shayne Pinto</h4>
+</header></div></div></div></div></article>
+<article class='tsI item_ nHero center nImg yHds yDsc yHd nShd nLk yLbl' data-aos='fade-up' data-aos-once='true'><div class='tsI_wrp'><div class='tsI_cptn'><div class='tsI_txt'><h3 class='tsI_stars' title='5'></h3><div class='tsI_dsc '><span class='icon-quote'></span><p>Ray&#39;s team solved our emergency quickly and came through with expertise and was very knowledgeable<br>He made us fell like Family !!</p></div><div class='tsI_hds_wrp'>
+<header class='tsI_hds '>
+<h4 class='tsI_hd'>suje Galan</h4>
+</header></div></div></div></div></article>
+<article class='tsI item_ nHero center nImg yHds yDsc yHd nShd nLk yLbl' data-aos='fade-up' data-aos-once='true'><div class='tsI_wrp'><div class='tsI_cptn'><div class='tsI_txt'><h3 class='tsI_stars' title='5'></h3><div class='tsI_dsc '><span class='icon-quote'></span><p>They are great I can always count and rely on them they provide the best service. Definitely would recommend them to anyone. Thank you. ;)</p></div><div class='tsI_hds_wrp'>
+<header class='tsI_hds '>
+<h4 class='tsI_hd'>Neily Flores</h4>
+</header></div></div></div></div></article>
+<article class='tsI item_ nHero center nImg yHds yDsc yHd nShd nLk yLbl' data-aos='fade-up' data-aos-once='true'><div class='tsI_wrp'><div class='tsI_cptn'><div class='tsI_txt'><h3 class='tsI_stars' title='5'></h3><div class='tsI_dsc '><span class='icon-quote'></span><p>Great people- great service. Fixed the heat to our building over night. Thanks for not letting us freeze!</p></div><div class='tsI_hds_wrp'>
+<header class='tsI_hds '>
+<h4 class='tsI_hd'>Michael Corbiserie</h4>
+</header></div></div></div></div></article>
+<article class='tsI item_ nHero center nImg yHds yDsc yHd nShd nLk yLbl' data-aos='fade-up' data-aos-once='true'><div class='tsI_wrp'><div class='tsI_cptn'><div class='tsI_txt'><h3 class='tsI_stars' title='5'></h3><div class='tsI_dsc '><span class='icon-quote'></span><p>Awesome service - Great people - Completely Saved the Day for Me!</p></div><div class='tsI_hds_wrp'>
+<header class='tsI_hds '>
+<h4 class='tsI_hd'>Carol Dounn</h4>
+</header></div></div></div></div></article>
+<article class='tsI item_ nHero center nImg yHds yDsc yHd nShd nLk yLbl' data-aos='fade-up' data-aos-once='true'><div class='tsI_wrp'><div class='tsI_cptn'><div class='tsI_txt'><h3 class='tsI_stars' title='5'></h3><div class='tsI_dsc '><span class='icon-quote'></span><p>Great work and even better customer service 10/10 would recommend</p></div><div class='tsI_hds_wrp'>
+<header class='tsI_hds '>
+<h4 class='tsI_hd'>Farid Briones</h4>
+</header></div></div></div></div></article>
+<article class='tsI item_ nHero center nImg yHds yDsc yHd nShd nLk yLbl' data-aos='fade-up' data-aos-once='true'><div class='tsI_wrp'><div class='tsI_cptn'><div class='tsI_txt'><h3 class='tsI_stars' title='5'></h3><div class='tsI_dsc '><span class='icon-quote'></span><p>SUPER RELIABLE AND DEPENDABLE</p></div><div class='tsI_hds_wrp'>
+<header class='tsI_hds '>
+<h4 class='tsI_hd'>Adona Sager</h4>
+</header></div></div></div></div></article>
+<article class='tsI item_ nHero center nImg yHds yDsc yHd nShd nLk yLbl' data-aos='fade-up' data-aos-once='true'><div class='tsI_wrp'><div class='tsI_cptn'><div class='tsI_txt'><h3 class='tsI_stars' title='5'></h3><div class='tsI_dsc '><span class='icon-quote'></span><p>They got the magic touch!</p></div><div class='tsI_hds_wrp'>
+<header class='tsI_hds '>
+<h4 class='tsI_hd'>Dan Corbi</h4>
+</header></div></div></div></div></article>
+<article class='tsI item_ nHero center nImg yHds yDsc yHd nShd nLk yLbl' data-aos='fade-up' data-aos-once='true'><div class='tsI_wrp'><div class='tsI_cptn'><div class='tsI_txt'><h3 class='tsI_stars' title='5'></h3><div class='tsI_dsc '><span class='icon-quote'></span><p>Great service!</p></div><div class='tsI_hds_wrp'>
+<header class='tsI_hds '>
+<h4 class='tsI_hd'>Maggie Howard</h4>
+</header></div></div></div></div></article></div><div class='slick-nav' id='slick-nav-9' ></div></section>
+<!-- end of charlotte_photo_gallery_2 new RENDER --><!-- End block --></div></div><!-- CUSTOM JAVASCRIPT FOR THIS PAGE -->
+<script>
+var words = document.getElementsByClassName("word");
+var wordArray = [];
+var currentWord = 0;
 
-<article class='tsI item_1 left nHero nImg yHds yDsc yHd yShd yLk' data-aos='fade-up' data-aos-once='true' ><a class='tsI_wrp' href='/contact/' target='_self' ><div class='tsI_txt'>
-<header class='tsI_hds '>
-<H1 class='tsI_hd'>Keep Your Building at the Right Temperature With our Industrial HVAC Services</H1>
-<h3 class='tsI_sh'>Turn to the pros for industrial HVAC services in Union, Irvington and Elizabeth, NJ</h3>
-</header>
-<div class='tsI_dsc_wrp '><div class='tsI_dsc'><p>If your industrial building gets too hot or too cold, it could damage or slow down your equipment. To make sure your indoor climate stays just right, rely on Ray&#39;s HVAC for industrial HVAC services. Our team is well-versed in working on HVAC for warehouses, data centers and computer storage areas in Union, Irvington and Elizabeth, NJ. Contact us today for a free estimate on warehouse HVAC services.</p></div></div></div><div class='tsI_btn btn_1  btn_md transition'> learn more</div></a></article>
-<article class='tsI item_2 left nHero nImg yHds yDsc yHd nShd nLk' data-aos='fade-up' data-aos-once='true' ><div class='tsI_wrp' ><div class='tsI_txt'>
-<header class='tsI_hds '>
-<h3 class='tsI_hd'>Maintain your HVAC system</h3>
-</header>
-<div class='tsI_dsc_wrp '><div class='tsI_dsc'><p>Industrial HVAC requires high-level knowledge, which is why you should depend on the experts from Ray&#39;s HVAC. Our team can perform a new installation or repair your current system. Count on us for industrial HVAC services like: <br><br><ul><li>Monthly maintenance</li><li>Warehouse HVAC installations </li><li>Piping, sheet metal or ventilation work </li></ul><br>Trust the professionals to handle all of your HVAC needs. Schedule a troubleshooting, repair or installation appointment today. </p></div></div></div></div></article></div></section>
-<!-- end of charlotte_article_1 new RENDER --><!-- End block --></div></div></main>
+words[currentWord].style.opacity = 1;
+for (var i = 0; i < words.length; i++) {
+  splitLetters(words[i]);
+}
+
+function changeWord() {
+  var cw = wordArray[currentWord];
+  var nw =
+    currentWord == words.length - 1 ? wordArray[0] : wordArray[currentWord + 1];
+  for (var i = 0; i < cw.length; i++) {
+    animateLetterOut(cw, i);
+  }
+
+  for (var i = 0; i < nw.length; i++) {
+    nw[i].className = "letter behind";
+    nw[0].parentElement.style.opacity = 1;
+    animateLetterIn(nw, i);
+  }
+
+  currentWord = currentWord == wordArray.length - 1 ? 0 : currentWord + 1;
+}
+
+function animateLetterOut(cw, i) {
+  setTimeout(function() {
+    cw[i].className = "letter out";
+  }, i * 80);
+}
+
+function animateLetterIn(nw, i) {
+  setTimeout(function() {
+    nw[i].className = "letter in";
+  }, 340 + i * 80);
+}
+
+function splitLetters(word) {
+  var content = word.innerHTML;
+  word.innerHTML = "";
+  var letters = [];
+  for (var i = 0; i < content.length; i++) {
+    var letter = document.createElement("span");
+    letter.className = "letter";
+    letter.innerHTML = content.charAt(i);
+    word.appendChild(letter);
+    letters.push(letter);
+  }
+
+  wordArray.push(letters);
+}
+
+changeWord();
+setInterval(changeWord, 4000);
+</script></main>
 
 <footer class="tsF" rel="footer">
     <section class="tsF_section section_content tsflex">
@@ -263,7 +560,7 @@ _gaq.push(['_trackPageview']);
             <section class="tsM_sec">
                 <div id="access" class="original_access">
                     <div class="menu align-right">
-            <ul id="menu-primary-menu" rel="dennis" class="sf-menu sf-menu_bg"><li class=" menu-item menu-item-669834 menu-item-object-page menu-item-type-  page_item page-item-604175" id="menu-item-669834"><a href="https://rayshvacmechanical.com/">Home</a></li><li class=" menu-item menu-item-669835 menu-item-object-page menu-item-type-post_type " id="menu-item-669835"><a href="https://rayshvacmechanical.com/residential-hvac/">Residential HVAC</a></li><li class=" menu-item menu-item-669836 menu-item-object-page menu-item-type-post_type " id="menu-item-669836"><a href="https://rayshvacmechanical.com/commercial-hvac/">Commercial HVAC</a></li><li class=" menu-item menu-item-669837 menu-item-object-page menu-item-type-post_type current-menu-item current_page_item" id="menu-item-669837"><a href="https://rayshvacmechanical.com/industrial-hvac/">Industrial HVAC</a></li><li class=" menu-item menu-item-957883 menu-item-object-page menu-item-type-post_type " id="menu-item-957883"><a href="https://rayshvacmechanical.com/reviews/">Reviews</a></li><li class=" menu-item menu-item-669838 menu-item-object-page menu-item-type-post_type " id="menu-item-669838"><a href="https://rayshvacmechanical.com/contact/">Contact</a></li></ul>
+            <ul id="menu-primary-menu" rel="dennis" class="sf-menu sf-menu_bg"><li class=" menu-item menu-item-669834 menu-item-object-page menu-item-type- current-menu-item current_page_item page_item page-item-604175" id="menu-item-669834"><a href="https://rayshvacmechanical.com/">Home</a></li><li class=" menu-item menu-item-669835 menu-item-object-page menu-item-type-post_type " id="menu-item-669835"><a href="https://rayshvacmechanical.com/residential-hvac/">Residential HVAC</a></li><li class=" menu-item menu-item-669836 menu-item-object-page menu-item-type-post_type " id="menu-item-669836"><a href="https://rayshvacmechanical.com/commercial-hvac/">Commercial HVAC</a></li><li class=" menu-item menu-item-669837 menu-item-object-page menu-item-type-post_type " id="menu-item-669837"><a href="https://rayshvacmechanical.com/industrial-hvac/">Industrial HVAC</a></li><li class=" menu-item menu-item-957883 menu-item-object-page menu-item-type-post_type " id="menu-item-957883"><a href="https://rayshvacmechanical.com/reviews/">Reviews</a></li><li class=" menu-item menu-item-669838 menu-item-object-page menu-item-type-post_type " id="menu-item-669838"><a href="https://rayshvacmechanical.com/contact/">Contact</a></li></ul>
         </div>                </div>
             </section>
         </div>
