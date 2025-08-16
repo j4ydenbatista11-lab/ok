@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html lang="en" class="ts_v3 charlotte_theme tsTheme_17 luna_theme unknown-os" ng-app="themeApp" >
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+    <title>Industrial HVAC Services | Warehouse HVAC in Union, Irvington, Elizabeth, NJ | Ray's HVAC</title>
+
+    <!-- preconnecting / preloading -->
+    <link rel="preconnect" as="style" id="jquery-ui-css-preload" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.min.css?ver=248_11" crossorigin/>
+    <!-- end of preconnecting / preloading -->
+
+    <!-- links to styles -->
+    <link rel="stylesheet" id="jquery-ui-css"  href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.min.css?ver=248_11" type="text/css" media="all" />
+
+
+    <!-- from beacon-easton theme definition front_actions() -->
+    <link rel="preconnect" id="Source-Sans-Pro-css-preconnect" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C700&#038;ver=248_11" />
+<link rel="stylesheet" id="Source-Sans-Pro-css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C700&#038;ver=248_11" type="text/css" media="all"/>
+<link rel="stylesheet" id="theme-css" href="https://rayshvacmechanical.com/cms_websites/css/dist/beacon-theme_charlotte/theme.css?ver=1" type="text/css" media="all and (min-width:0px)"/>
+<link rel="stylesheet" id="customize-css" href="https://rayshvacmechanical.com/cms_websites/cms_theme_custom_css.php?ver=248_11" type="text/css" media="all"/>
+<!-- from _the_list -->
+
+    <!-- general links to JS for all themes-->
+    <!-- <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.4.min.js"></script> -->
+    <!-- <script type="text/javascript" src="https://code.jquery.com/jquery-migrate-1.4.1.min.js"></script> -->
+    <!-- <script type="text/javascript" src="https://tsm-js.s3.amazonaws.com/jquery.validate.js?ver=248_11"></script> -->
+    <!-- <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js?ver=248_11"></script> -->
+    <!-- from current/wp-content/themes/tsm-theme-1/plugins/_the_list/_the_list.php -->
+    <!-- <script type="text/javascript" src="https://tsm-js.s3.amazonaws.com/jquery.sonar.min.js?ver=248_11"></script> -->
+    <!-- <script type="text/javascript" src="https://rayshvacmechanical.com/wp-content/themes/beacon-easton/js/nwmatcher.js"></script> -->
+    <!-- <script type="text/javascript" src="https://rayshvacmechanical.com/wp-content/themes/beacon-easton/js/modernizr-custom-11917.js"></script> -->
+
+    <script type="text/javascript" src="https://rayshvacmechanical.com/cms_websites/js/dist/shared/external/scripts.min.js"></script>
+
+<script type="text/javascript" src="https://rayshvacmechanical.com/cms_websites/tools/AdminBarAnalytics/js/external-tracking.min.js"></script>
+<link rel="shortcut icon" sizes="16x16 32x32 64x64" href="/files/2022/07/heating.png?w=196&h=196&zc=0">
+<meta property="og:image" content="/files/2022/04/sdf12Untitled-6-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered.jpg"/>
+<meta property="og:title" content="Industrial HVAC Services | Warehouse HVAC in Union, Irvington, Elizabeth, NJ | Ray's HVAC"/>
+<meta property="og:site_name" content="Ray's HVAC"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="https://rayshvacmechanical.com/industrial-hvac"/>
+<meta property="og:description" content="To make sure your indoor climate stays just right, rely on Ray's HVAC for industrial HVAC services in Union, NJ."/>
+<meta name="description" itemprop="description" content="To make sure your indoor climate stays just right, rely on Ray's HVAC for industrial HVAC services in Union, NJ." />
+<link rel="canonical" href="https://rayshvacmechanical.com/industrial-hvac" />
+<link rel="stylesheet" id="custom-css-css" href="https://rayshvacmechanical.com/cms_websites/cms_custom_css.php?ver=248_11" type="text/css" media="all"/>
+<!-- Segment Pixel - NC_Charlotte_Ray's HVAC_RT Pixel - DO NOT MODIFY -->
+<script src="https://secure.adnxs.com/seg?add=30013769&t=1" type="text/javascript"></script>
+<!-- End of Segment Pixel -->
+
+<!-- Conversion Pixel - NC_Charlotte_Ray's HVAC_CV Pixel - DO NOT MODIFY -->
+<script src="https://secure.adnxs.com/px?id=1583102&t=1" type="text/javascript"></script>
+<!-- End of Conversion Pixel -->
+<script type="text/javascript">
+//<![CDATA[
+    var b2b = {
+        'isTestingUser' : 0,
+        'tag':'248_11',
+        'theme': 'beacon-theme_charlotte',
+        'blog_id': '',
+        'website_id': 56433,
+        'CID':'', // later
+        'gaId':'UA-32419321-172',
+        'page_type': '',
+        'isPage': '',
+        'post_id': '604178',
+        'home_url':'https://rayshvacmechanical.com',
+        'admin_url':'',
+        'plugins_url':'',
+        'basename':'index.php',
+        'isMobile':0,
+        'isTablet':0,
+        'isFrontPage': 0,
+        'isPost':0,
+        'isSuperAdmin':0,
+        'isBeacon':1,
+        'isB2Badmin':0,
+        'hasStore':0,
+        'primary_menu': 0 ,
+        'qstr':[],
+        'containerClasses':{},
+        'post_password_required':0,
+        'onFly':0
+    };
+//]]>
+</script>
+    <script type="text/javascript">
+				window.b2b = window.b2b || {};
+				window.b2b.GA = {"accounts":["UA-32419321-172","UA-26792682-1"]};
+		</script>
+<script type="text/javascript">
+    var analyticsFileTypes = [''];
+    var analyticsSnippet = 'enabled';
+</script>
+
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-32419321-172']);
+    _gaq.push(['_addDevId', 'i9k95']); // Google Analyticator App ID with Google
+    _gaq.push(['_setCampaignCookieTimeout', 0]);
+
+    _gaq.push(['_trackPageview']);
+
+    _gaq.push(['_setAccount', 'UA-26792682-1']);
+_gaq.push(['_setCampaignCookieTimeout', 0]);
+_gaq.push(['_trackPageview']);
+
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+
+        <!-- Master Google tag (gtag.js) -->
+            <script async src="https://www.googletagmanager.com/gtag/js?id=G-PF8RFHR03F"></script>
+            <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-PF8RFHR03F');
+        </script>
+
+
+            <!-- Ga4 Script-->
+            <!-- Elapsed Time: 0.0033009052276611s -->
+            <script async src="https://www.googletagmanager.com/gtag/js?id=G-SD29XNYM4H"></script>
+            <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-SD29XNYM4H'); </script>
+
+
+        <!-- Custom CTC & CTD events -->
+        <script>
+            document.addEventListener('DOMContentLoaded', function () {
+                document.querySelectorAll("a[href^='tel']").forEach(function(el){
+                    el.addEventListener('click', function (event) {
+                        gtag('event', 'call_click');
+                    });
+                });
+                document.querySelectorAll("a[href^='https://maps.google.com/maps']").forEach(function(el){
+                    el.addEventListener('click', function (event) {
+                        gtag('event', 'directions_click');
+                    });
+                });
+            }, false);
+        </script>
+
+</head>
+<body id="top"class=" page page-id-604178 page-template-default ve-iframe beacon unknown">
+<div id="wrapper" class="tsW">
+    <header class="tsH expand">
+        <div class="tsH_wrp">
+            
+<div id='_the_logo' class='_is_plugin header-logo' slug='_the_logo' data-extra-args='{"section":"header"}'>
+<h2 class='logo logo-v2'>
+<div data-numslots="1" class="logo-variation logo-variation-header"><div  class="logo-slot pct100 slot_0 slot-type-image align-left"><a class="ve_no_url" href="https://rayshvacmechanical.com" title="Ray's HVAC" rel="home"><img  src="/files/2022/04/rays.png" /></a></div></div><div data-numslots="1" class="logo-variation logo-variation-mobile"><div  class="logo-slot pct100 slot_0 slot-type-image align-center"><a class="ve_no_url" href="https://rayshvacmechanical.com" title="Ray's HVAC" rel="home"><img  src="/files/2022/04/rays.png" /></a></div></div>
+</h2></div>
+            <div id="access" class="original_access">
+                <div class="menu align-right">
+            <ul id="menu-primary-menu" rel="dennis" class="sf-menu sf-menu_bg"><li class=" menu-item menu-item-669834 menu-item-object-page menu-item-type-  page_item page-item-604175" id="menu-item-669834"><a href="https://rayshvacmechanical.com/">Home</a></li><li class=" menu-item menu-item-669835 menu-item-object-page menu-item-type-post_type " id="menu-item-669835"><a href="https://rayshvacmechanical.com/residential-hvac/">Residential HVAC</a></li><li class=" menu-item menu-item-669836 menu-item-object-page menu-item-type-post_type " id="menu-item-669836"><a href="https://rayshvacmechanical.com/commercial-hvac/">Commercial HVAC</a></li><li class=" menu-item menu-item-669837 menu-item-object-page menu-item-type-post_type current-menu-item current_page_item" id="menu-item-669837"><a href="https://rayshvacmechanical.com/industrial-hvac/">Industrial HVAC</a></li><li class=" menu-item menu-item-957883 menu-item-object-page menu-item-type-post_type " id="menu-item-957883"><a href="https://rayshvacmechanical.com/reviews/">Reviews</a></li><li class=" menu-item menu-item-669838 menu-item-object-page menu-item-type-post_type " id="menu-item-669838"><a href="https://rayshvacmechanical.com/contact/">Contact</a></li></ul>
+        </div>            </div>
+
+            <button type="button" class="tsC_open tsH_navTrig trigger" data-target="tsM" title="Open Menu"></button>
+        </div>
+
+        <div class="tsSC transition tsflex " >
+            <ul class="social-media-links"></ul>
+<aside class="tsCntct "><ul class="tsCntct_list transition"><li class="tsPhone "><a href="tel:(201) 780-3062" data-icon="A" title="(201) 780-3062" class="primary tsC_Btn tsHidden"><span> </b>(201) 780-3062</span></a></li><li class="tsAddress tsi-address "><a href="https://maps.google.com/maps?daddr=1682 Burnet Avenue, Union, NJ 07083" data-icon="M" title="https://maps.google.com/maps?daddr=1682 Burnet Avenue, Union, NJ 07083" target="_blank" class="primary tsC_Btn">Ray's HVAC</a></li></ul></aside>
+        </div>
+
+        
+    </header>
+
+    <main class="tsC  ">
+<div class='full_width_content section_content content_bg wrp_color_bg'><div class='section w1060'><!-- Start block charlotte_parallax_1 -->
+<!-- charlotte_parallax_1 new RENDER -->
+<section id='section_1'
+            class='tsB tsT_parallax p1 promo_colors nCol tsX widescreen_2-4_1 large  not_well '>
+
+<article id='a3-1' class='tsI transition item_1 animate txt_ yImg nLk yHds yOvr'>
+                <div class='tsX tsXa' style='' data-jarallax data-speed='0.2' data-img-position='50% 50%'>
+                    <img class='jarallax-img' src='/files/2022/04/sdf12Untitled-6-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered-Recovered.jpg?w=1600&a=t'/>
+                </div>
+                <div class='tsX tsXb' ></div><div class='tsI_wrp' ><div class='tsI_cptn'>
+                 <div class='tsI_txt'>
+<header class='tsI_hds '>
+<h2 class='tsI_hd'>Industrial HVAC</h2>
+</header></div></div></div></article></section>
+<!-- end of charlotte_parallax_1 new RENDER --><!-- End block --><!-- Start block charlotte_article_1 -->
+<!-- charlotte_article_1 new RENDER -->
+<section id='section_2'
+            class='tsB tsT_article a1 tsflex col_2 square_1_1 medium not_well '>
+<div class='tsR'>
+
+<article class='tsI item_1 left nHero nImg yHds yDsc yHd yShd yLk' data-aos='fade-up' data-aos-once='true' ><a class='tsI_wrp' href='/contact/' target='_self' ><div class='tsI_txt'>
+<header class='tsI_hds '>
+<H1 class='tsI_hd'>Keep Your Building at the Right Temperature With our Industrial HVAC Services</H1>
+<h3 class='tsI_sh'>Turn to the pros for industrial HVAC services in Union, Irvington and Elizabeth, NJ</h3>
+</header>
+<div class='tsI_dsc_wrp '><div class='tsI_dsc'><p>If your industrial building gets too hot or too cold, it could damage or slow down your equipment. To make sure your indoor climate stays just right, rely on Ray&#39;s HVAC for industrial HVAC services. Our team is well-versed in working on HVAC for warehouses, data centers and computer storage areas in Union, Irvington and Elizabeth, NJ. Contact us today for a free estimate on warehouse HVAC services.</p></div></div></div><div class='tsI_btn btn_1  btn_md transition'> learn more</div></a></article>
+<article class='tsI item_2 left nHero nImg yHds yDsc yHd nShd nLk' data-aos='fade-up' data-aos-once='true' ><div class='tsI_wrp' ><div class='tsI_txt'>
+<header class='tsI_hds '>
+<h3 class='tsI_hd'>Maintain your HVAC system</h3>
+</header>
+<div class='tsI_dsc_wrp '><div class='tsI_dsc'><p>Industrial HVAC requires high-level knowledge, which is why you should depend on the experts from Ray&#39;s HVAC. Our team can perform a new installation or repair your current system. Count on us for industrial HVAC services like: <br><br><ul><li>Monthly maintenance</li><li>Warehouse HVAC installations </li><li>Piping, sheet metal or ventilation work </li></ul><br>Trust the professionals to handle all of your HVAC needs. Schedule a troubleshooting, repair or installation appointment today. </p></div></div></div></div></article></div></section>
+<!-- end of charlotte_article_1 new RENDER --><!-- End block --></div></div></main>
+
+<footer class="tsF" rel="footer">
+    <section class="tsF_section section_content tsflex">
+        <div class="section w1060">
+            <div class="tsB tsT_plugin tsT_article tsT_footer tsflex col_3 small not_well">
+                <div class="tsR">
+                                    </div>
+            </div>
+        </div>
+    </section>
+    <section class="tsF_section brand tsflex">
+        <div class="tsR">
+            
+<div id='_the_logo' class='_is_plugin footer-logo' slug='_the_logo' data-extra-args='{"section":"footer"}'>
+<h2 class='logo logo-v2'>
+<div data-numslots="1" class="logo-variation logo-variation-footer"><div  class="logo-slot pct100 slot_0 slot-type-image align-center"><a class="ve_no_url" href="https://rayshvacmechanical.com" title="Ray's HVAC" rel="home"><img  src="/files/2022/04/rays.png" /></a></div></div>
+</h2></div>        </div>
+    </section>
+    <hr>
+    <section class="tsF_section copyright tsflex">
+        <div class="tsR">
+            
+<address class="tsF_copyright">
+	Copyright &copy; 2025 Ray's HVAC, all rights reserved.
+	<br><span class='footer-street-address footer-address'>1682 Burnet Avenue, &nbsp;</span><span class='footer-city-state-zip-address footer-address'><span>Union</span>,&nbsp;<span>NJ</span>&nbsp;<span>07083</span>&nbsp;&nbsp;</span>
+            <span class='footer-phone-address footer-address'>
+                (201) 780-3062
+            </span>
+            
+</address>
+        </div>
+    </section>
+    <section class="tsF_section bottom social tsflex">
+        <div class="tsR">
+            <div class="tsF_col">
+                <ul class="social-media-links"></ul>            </div>
+            <div class="tsF_col">
+                <button type="button" class="tsC_open tsC_Btn tsF_navTrig trigger transition" data-target="tsM" title="Open Menu"> Menu</button>
+            </div>
+        </div>
+    </section>
+
+    </footer>
+</div>
+
+
+<a class="tsC_Btn to-top scrollBtn" href="#top"></a>
+
+<nav id="tsM" class="tsM transition triggered">
+    <div class="tsM_wrp">
+        <button type="button" class="tsC_close trigger transition icon-close" data-target="tsM" title="Close Menu"></button>
+        <div class="tsM_bdy">
+            <section class="tsM_sec social">
+                <ul class="social-media-links"></ul>            </section>
+            <!--             <h6 class="tsB_hd"><span>Menu</span></h6> -->
+            <section class="tsM_sec">
+                <div id="access" class="original_access">
+                    <div class="menu align-right">
+            <ul id="menu-primary-menu" rel="dennis" class="sf-menu sf-menu_bg"><li class=" menu-item menu-item-669834 menu-item-object-page menu-item-type-  page_item page-item-604175" id="menu-item-669834"><a href="https://rayshvacmechanical.com/">Home</a></li><li class=" menu-item menu-item-669835 menu-item-object-page menu-item-type-post_type " id="menu-item-669835"><a href="https://rayshvacmechanical.com/residential-hvac/">Residential HVAC</a></li><li class=" menu-item menu-item-669836 menu-item-object-page menu-item-type-post_type " id="menu-item-669836"><a href="https://rayshvacmechanical.com/commercial-hvac/">Commercial HVAC</a></li><li class=" menu-item menu-item-669837 menu-item-object-page menu-item-type-post_type current-menu-item current_page_item" id="menu-item-669837"><a href="https://rayshvacmechanical.com/industrial-hvac/">Industrial HVAC</a></li><li class=" menu-item menu-item-957883 menu-item-object-page menu-item-type-post_type " id="menu-item-957883"><a href="https://rayshvacmechanical.com/reviews/">Reviews</a></li><li class=" menu-item menu-item-669838 menu-item-object-page menu-item-type-post_type " id="menu-item-669838"><a href="https://rayshvacmechanical.com/contact/">Contact</a></li></ul>
+        </div>                </div>
+            </section>
+        </div>
+    </div>
+</nav>
+<div id="_the_embeded_below_mods" slug="">
+                <div id="_the_embeded_below_mods_wrapper"></div>
+                <div id="_the_embeded_below_mods_btn" class="_is_embeded"></div>
+            </div>
+<script type="text/javascript" src="https://rayshvacmechanical.com/cms_websites/js/dist/shared/underscore.min.js?ver=1.8.3"></script>
+<script type="text/javascript" src="https://rayshvacmechanical.com/cms_websites/js/dist/beacon-theme_charlotte/theme-min.js"></script>
+<script type="text/javascript" src="https://rayshvacmechanical.com/cms_websites/js/dist/beacon-theme_charlotte/fontawesome/all.min.js"></script>
+
+<script type="text/javascript" src="https://rayshvacmechanical.com/cms_websites/tools/GAEventTracking/js/scripts.min.js"></script><script src="https://kit.fontawesome.com/9bf0e924ac.js" crossorigin="anonymous"></script>
+ <script>jQuery(document).ready(function(){jQuery("body").append('<div class="social_items_flex"><a href="https://maps.app.goo.gl/ooRw7h78FJ6KFokh8" target="_blank"><div class="social_button google_button"><div class="floating_icon"><i class="fab fa-google"></i></div> <span>Review Us On Google!</span></div></a><a href="https://www.yelp.com/biz/rays-hvac-union" target="_blank"><div class="social_button yelp_button"><div class="floating_icon"><i class="fab fa-yelp" aria-hidden="true"></i></div> <span>Check Out Our Yelp!</span></div></a></div>');});</script>
+
+ <script>jQuery(document).ready(function(){jQuery(".tsPhone:nth-child(1) span").replaceWith("<span>Call Today: (201) 780-3062</span>");});</script>
+
+<script>
+jQuery(document).ready(function(){jQuery("body").append("<div id='mobile-call-btn'><a href='tel:(201) 780-3062'><span>Call Now</span><br><img src='/files/2024/04/call-answer-200_1_(1).png'></a></div>");});
+</script>
+
+</body></html>
